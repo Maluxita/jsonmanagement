@@ -1,0 +1,23 @@
+{
+    "familia": {
+        "chuko": "His name es xhuko",
+        "dany": "he got first place on master challenge",
+        "jose": "Chess master",
+        "malu": "la mas malusita"
+    },
+    "hobbies": {
+        "Dany": "leer",
+        "malu": null,
+        "pepe": "ajedrez"
+    },
+    "hoy": "2017-04-24",
+    "llueve": false,
+    "pendientes": [
+        "Escaleras",
+        "Arreglar baño",
+        "comprar bicis"
+    ],
+    "pi": 3.1416,
+    "puerta": true,
+    "saludo": "hola mundo que tal!"
+}

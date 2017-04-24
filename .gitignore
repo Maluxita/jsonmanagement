@@ -3,3 +3,5 @@
 *~
 temp/
 venv/
+data/epn.json
+data/trump.json
